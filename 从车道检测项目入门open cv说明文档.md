@@ -458,7 +458,7 @@ cv2.waitKey(0)
 
 ```
 
-<img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/image-20250429175552534.png" alt="image-20250429175552534" style="zoom:67%;" />
+<img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/image-20250429205831425.png" alt="image-20250429205831425" style="zoom: 67%;" />
 
 
 
