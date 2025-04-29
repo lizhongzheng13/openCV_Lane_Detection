@@ -88,7 +88,7 @@ cv2.waitKey(0)
 
 ```
 
-<img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/image-20250428110620476.png" alt="image-20250428110620476" style="zoom:67%;" />
+<img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/image-20250429203018189.png" alt="image-20250429203018189" style="zoom:67%;" />
 
 > 当上边缘和下边缘都升高时，边缘显示会越来越少。
 
@@ -149,7 +149,7 @@ cv2.waitKey(0)
 
 ```
 
-<img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/image-20250428191432771.png" alt="image-20250428191432771" style="zoom: 50%;" />
+<img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/image-20250429202953080.png" alt="image-20250429202953080" style="zoom: 67%;" />
 
 
 
