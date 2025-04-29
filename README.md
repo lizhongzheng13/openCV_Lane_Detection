@@ -16,8 +16,8 @@ openCV_Lane_Detection/
 ├── hough_line.py     # 霍夫变换
 ├── filter_lines.py   # 离群值过滤
 ├── fit_line.py       # 最小二乘拟合
-├── draw_line.py      # 绘制拟合结果
-├── mark_sequence.py  # 综合调用流程
+├── picture_detect_(draw_line).py     # 绘制拟合结果---最终图片检测代码
+├── final_video_detect(mark_sequence).py  # 最终视频检测代码
 ├── *.jpg             # 中间结果图像
 └── README.md
 ```
